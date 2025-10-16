@@ -1,0 +1,7 @@
+Distributed Architecture: Unlike centralized version control systems, Git allows each developer to have a full copy of the entire repository and its history on their local machine. This enables offline work and faster operations.
+Version Control: Git records changes to files over time, allowing users to revert to previous versions, compare changes, and understand the evolution of a project.
+Branching and Merging: Git offers lightweight and efficient branching capabilities, enabling developers to work on separate features or bug fixes in isolation without affecting the main codebase. These branches can then be easily merged back into the main line of development.
+Staging Area: Git utilizes a "staging area" (also known as the index) where changes are prepared before being committed to the repository. This allows for more granular control over what changes are included in each commit.
+Commits: A commit in Git represents a snapshot of the repository at a specific point in time, along with a message describing the changes made.
+Object Model: Git stores data as a collection of immutable objects, including blobs (file contents), trees (directory structures), commits (snapshots with metadata), and tags (pointers to specific commits).
+Git is widely used in software development for managing source code, facilitating collaboration among developers, and maintaining a complete history of project changes. Popular platforms like GitHub, GitLab, and Bitbucket provide hosting for Git repositories and additional features for collaboration and project management.
