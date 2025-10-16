@@ -1,0 +1,1 @@
+The DevOps lifecycle is a structured approach that integrates development (Dev) and operations (Ops) teams to streamline software delivery. It focuses on collaboration, automation, and continuous feedback across key phases planning, coding, building, testing, releasing, deploying, operating, and monitoring executed in a continuous loop.
